@@ -6418,12 +6418,7 @@
 					},
 					{
 						"_": [
-							"Star Globe|FFXIV"
-						]
-					},
-					{
-						"_": [
-							"Divination Deck|FFXIV"
+							
 						]
 					},
 					{
@@ -7181,7 +7176,9 @@
 						]
 					},
 					{
-						"_": []
+						"_": [
+							"staff|phb"
+						]
 					},
 					{
 						"a": [
@@ -7971,10 +7968,9 @@
 						]
 					},
 					{
-						"_": []
-					},
-					{
-						"_": []
+						"_": [
+							"staff|phb"
+						]
 					},
 					{
 						"_": [
@@ -7993,9 +7989,6 @@
 						"b": [
 							"scholar's pack|phb"
 						]
-					},
-					{
-						"_": []
 					}
 				]
 			},
@@ -8629,12 +8622,6 @@
 						"b": [
 							"scimitar|phb"
 						]
-					},
-					{
-						"_": []
-					},
-					{
-						"_": []
 					},
 					{
 						"a": [
@@ -9845,9 +9832,6 @@
 						"b": [
 							"dungeoneer's pack|phb"
 						]
-					},
-					{
-						"_": []
 					}
 				]
 			},
@@ -10467,8 +10451,7 @@
 								"item": "renaissance bullet|dmg",
 								"count": 20
 							}
-						],
-						"b": []
+						]
 					},
 					{
 						"a": [
@@ -10491,9 +10474,6 @@
 						"a": [
 							"artisan's tools|phb"
 						]
-					},
-					{
-						"a": []
 					}
 				]
 			},
@@ -11578,9 +11558,6 @@
 						"b": [
 							"dungeoneer's pack|phb"
 						]
-					},
-					{
-						"_": []
 					}
 				]
 			},
@@ -12157,7 +12134,9 @@
 						]
 					},
 					{
-						"_": []
+						"_": [
+							"staff|phb"
+						]
 					},
 					{
 						"a": [
@@ -12985,7 +12964,7 @@
 	],
 	"item": [
 		{
-			"name": "Chakram",
+			"name": "chakram",
 			"source": "FFXIV",
 			"page": 0,
 			"type": "M",
@@ -13006,7 +12985,7 @@
 			"entries": []
 		},
 		{
-			"name": "Katana",
+			"name": "katana",
 			"source": "FFXIV",
 			"page": 0,
 			"type": "M",
