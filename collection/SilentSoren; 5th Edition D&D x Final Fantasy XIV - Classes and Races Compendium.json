@@ -10447,9 +10447,9 @@
 					},
 					{
 						"a": [
-							"pistol|phb",
+							"pistol|dmg",
 							{
-								"item": "renaissance bullet|dmg",
+								"item": "Renaissance Bullet|dmg",
 								"count": 20
 							}
 						]
