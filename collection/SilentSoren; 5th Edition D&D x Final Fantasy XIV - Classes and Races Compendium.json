@@ -9946,6 +9946,7 @@
 				"Jump|Dragoon|FFXIV|1",
 				"Fighting Style|Dragoon|FFXIV|2",
 				"Lancet|Dragoon|FFXIV|2",
+				"Elusive|Dragoon|FFXIV|3",
 				{
 					"classFeature": "Dragoon Archetype|Dragoon|FFXIV|3",
 					"gainSubclassFeature": true
@@ -14197,32 +14198,38 @@
 			"level": 10,
 			"page": 73,
 			"entries": [
-				"Beginning at the 10th level, you are able to target your ranged attacks to cause negative effects on your target. Using your bonus action, you can empower your next shot to target a limb causing different effects. If your attack lands, your target must make a Dexterity saving throw against your Machinist save DC or fall under the targetted effect. This effect lasts until your next action where applicable.",
+				"Beginning at the 10th level, you are able to target your ranged attacks to cause negative effects on your target. Using your bonus action, you can empower your next shot to target a limb causing different effects. If your attack lands, your target must make a Dexterity saving throw against your Machinist save DC + a modifier or fall under the targeted effect. This effect lasts until your next action where applicable.",
 				{
 					"type": "table",
 					"caption": "Graze Effects",
 					"colLabels": [
+						"Mod",
 						"Limb",
 						"Effect"
 					],
 					"colStyles": [
 						"col-3 text-center",
+						"col-3 text-center",
 						"col-9"
 					],
 					"rows": [
 						[
+							"(-1)",
 							"Head",
 							"{@condition Stunned}"
 						],
 						[
+							"(-1)",
 							"Heart",
 							"{@condition Frightened}"
 						],
 						[
+							"(0)",
 							"Arm",
 							"Disarmed"
 						],
 						[
+							"(0)",
 							"Leg",
 							"{@condition Prone}"
 						]
@@ -14748,6 +14755,17 @@
 			"source": "FFXIV",
 			"entries": [
 				"At 3rd level, you select the focus of your training as a dragoon. Some Dragoon's stick to their roots and fight as Dragon Slayers, while some attempt to harness the power of Dragons and combine it with their unique martial abilities becoming Dragon Hearts. Some Dragoon's decide to break away from their dragon hunting roots and attempt to master the skies as Valkyries."
+			]
+		},
+		{
+			"name": "Elusive",
+			"className": "Dragoon",
+			"classSource": "FFXIV",
+			"level": 3,
+			"page": 63,
+			"source": "FFXIV",
+			"entries": [
+				"At 3rd level, your have increased your mastery of Jump. You no longer provoke attacks of opportunity when jumping out of a creature's attack range. Further, Jump can be used without targeting an enemy."
 			]
 		},
 		{
