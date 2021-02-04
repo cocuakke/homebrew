@@ -10449,7 +10449,7 @@
 						"a": [
 							"pistol|dmg",
 							{
-								"item": "Renaissance Bullet|dmg",
+								"item": "renaissance bullet|dmg",
 								"count": 20
 							}
 						]
@@ -10458,7 +10458,7 @@
 						"a": [
 							"musket|dmg",
 							{
-								"item": "Renaissance Bullet|dmg",
+								"item": "renaissance bullet|dmg",
 								"count": 20
 							}
 						]
