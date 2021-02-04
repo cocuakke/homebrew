@@ -10447,7 +10447,7 @@
 					},
 					{
 						"a": [
-							"pistol|",
+							"pistol|phb",
 							{
 								"item": "renaissance bullet|dmg",
 								"count": 20
@@ -10458,14 +10458,14 @@
 						"a": [
 							"musket|dmg",
 							{
-								"item": "Renaissance Bullet|DMG",
+								"item": "Renaissance Bullet|dmg",
 								"count": 20
 							}
 						]
 					},
 					{
 						"a": [
-							"explorer's pack|PHB"
+							"explorer's pack|phb"
 						],
 						"b": [
 							"dungeoneer's pack|phb"
