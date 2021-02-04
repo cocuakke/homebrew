@@ -10237,9 +10237,9 @@
 							"shield|phb"
 						],
 						"b": [
-							"Pistol|DMG",
+							"Pistol|dmg",
 							{
-								"item": "Renaissance Bullet|DMG",
+								"item": "Renaissance Bullet|dmg",
 								"count": 20
 							}
 						]
