@@ -10222,7 +10222,7 @@
 							"scale mail|phb"
 						],
 						"b": [
-							"leather armor|PHB"
+							"leather armor|phb"
 						]
 					},
 					{
@@ -10237,9 +10237,9 @@
 							"shield|phb"
 						],
 						"b": [
-							"pistol|DMG",
+							"pistol|dmg",
 							{
-								"item": "Renaissance Bullet|DMG",
+								"item": "renaissance bullet|dmg",
 								"count": 20
 							}
 						]
