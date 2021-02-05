@@ -8593,7 +8593,7 @@
 			"startingEquipment": {
 				"additionalFromBackground": true,
 				"default": [
-					"(a) two {@item dagger|phb|daggers} or (b) two {@item Chakram|FFXIV|chakrams}",
+					"(a) two {@item dagger|phb|daggers} or (b) two {@item chakram|FFXIV|chakrams}",
 					"(a) a {@item whip|phb} or (b) {@item scimitar|phb}",
 					"a set of bracelets and anklets for spellcasting",
 					"a set of clothes",
@@ -8610,7 +8610,7 @@
 						],
 						"b": [
 							{
-								"item": "Chakram|FFXIV",
+								"item": "chakram|FFXIV",
 								"count": 2
 							}
 						]
@@ -11535,7 +11535,7 @@
 			"startingEquipment": {
 				"additionalFromBackground": true,
 				"default": [
-					"(a) a {@item Katana|FFXIV}",
+					"(a) a {@item katana|FFXIV}",
 					"(a) a {@item shortbow|PHB} and {@item arrow|PHB|20 arrows}",
 					"(a) an {@item explorer's pack|phb} or (b) a {@item dungeoneer's pack|phb}",
 					"a decorative scabbard for your katana"
@@ -11543,7 +11543,7 @@
 				"defaultData": [
 					{
 						"a": [
-							"Katana|FFXIV"
+							"katana|FFXIV"
 						]
 					},
 					{
@@ -12965,7 +12965,7 @@
 	],
 	"item": [
 		{
-			"name": "Chakram",
+			"name": "chakram",
 			"source": "FFXIV",
 			"page": 0,
 			"type": "M",
@@ -12986,7 +12986,7 @@
 			"entries": []
 		},
 		{
-			"name": "Katana",
+			"name": "katana",
 			"source": "FFXIV",
 			"page": 0,
 			"type": "M",
